@@ -1,0 +1,3 @@
+2,Login,high,open
+3,Registration,medium,closed
+4,Password,low,open
